@@ -1,0 +1,25 @@
+{
+	"name": "SuperFormula",
+	"identifier": "com.sureskumar.superformula",
+	"version": "1.0.0",
+  	"compatibleVersion": "40.0",
+  	"appcast": "http://www.sureskumar.com/superformula/superformula.xml",
+	"description": "Super shapes is a sketch plugin to generate complex cool shapes using super formula.",
+	"author": "Sures Kumar",
+	"authorEmail": "sures.srinivasan@gmail.com",
+	"homepage": "http://www.sureskumar.com",
+	"menu": {
+		"isRoot": true,
+		"items": [
+			"drawPattern"
+		],
+		"title": "Super Formula"
+	},
+	"commands": [{
+		"name": "Super Formula",
+		"shortcut": "cmd y",
+		"identifier": "drawPattern",
+		"handler": "drawPattern",
+		"script": "md.sketchscript"
+	}]
+}

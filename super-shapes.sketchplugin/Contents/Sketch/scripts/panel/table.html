@@ -1,0 +1,176 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Super Formula</title>
+  <link rel="stylesheet" href="assets/css/jquery-ui.min.css">
+  <link rel="stylesheet" href="assets/css/index.css">
+  <script type="text/javascript" src="assets/js/lib/jquery-2.2.4.min.js"></script>
+  <script type="text/javascript" src="assets/js/lib/jquery-ui.min.js"></script>
+
+</head>
+<body>
+  <div class="container">
+    <div class="row-panel">
+        <div class="settings-panel">
+          <div class="block">
+            <div class="block__content">
+              <div class="form_cont">
+                    
+                    <div class="section_small top_space">
+                      <img src="assets/img/logo.png" class="logo_in_footer_img">
+                    </div>
+
+                    <div class="section_small" style="margin-top:8px;">
+                      <label class="fl fl_cor lbl_style">No. of Patterns</label>
+                      <input type="text" id="input_count_txt" value="4" size="3" class="ui_txt fr">
+                    </div>
+
+                    <div class="section_40" style="margin-top:-11px;">
+                        <label class="fl fl_cor lbl_style">No. of corners</label>
+                        <!--
+                        <div class="sli_w">
+                            <div id="slider_m" class="sli"></div>
+                        </div>
+                        -->
+                        <input type="text" id="input_m_0" size="3" value="6" class="ui_txt fr">
+                    </div>
+
+                    
+
+                    <div class="section_40 margin_top_20 top_space1">
+                        <label class="lbl_style">Odd curves scale</label>
+                        <div class="fl lbl_left">Inner: </div>
+                        <div class="sli_w_s">
+                            <div id="slider_a" class="sli"></div>
+                        </div>
+                        <input type="text" id="input_scale_0" size="3" class="ui_txt fl">
+                    </div>
+                    <div>
+                        <div class="fl lbl_left1">Outer: </div>
+                        <div class="sli_w_s">
+                            <div id="slider_a1" class="sli"></div>
+                        </div>
+                        <input type="text" id="input_scale_1" size="3" class="ui_txt1 fr">
+                    </div>
+
+                    <div class="section_40 margin_top_20 block_inline">
+                        <label class="lbl_style">Even curves scale</label>
+                        <div class="fl lbl_left">Inner: </div>
+                        <div class="sli_w_s">
+                            <div id="slider_b" class="sli"></div>
+                        </div>
+                        <input type="text" id="input_b_0" size="3" class="ui_txt fl">
+                    </div>
+                    <div>
+                        <div class="fl lbl_left1">Outer: </div>
+                        <div class="sli_w_s">
+                            <div id="slider_b1" class="sli"></div>
+                        </div>
+                        <input type="text" id="input_b_1" size="3" class="ui_txt1 fr">
+                    </div>
+
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="settings-panel1">
+          <div class="block">
+            <div class="block__content">
+              <div class="form_cont">
+
+                    <div class="section_40 block_inline">
+                        <label class="lbl_style">Inverse scale</label>
+                        <div class="fl lbl_left">Inner: </div>
+                        <div class="sli_w_s">
+                            <div id="slider_n1_0" class="sli"></div>
+                        </div>
+                        <input type="text" id="input_n1_0" size="3" class="ui_txt fl">
+                    </div>
+                    <div>
+                        <div class="fl lbl_left1">Outer: </div>
+                        <div class="sli_w_s">
+                            <div id="slider_n1_1" class="sli"></div>
+                        </div>
+                        <input type="text" id="input_n1_1" size="3" class="ui_txt1 fr">
+                    </div>
+
+
+
+                    <div class="section_40 margin_top_20 block_inline">
+                        <label class="lbl_style">Odd curves gap</label>
+                        <div class="fl lbl_left">Inner: </div>
+                        <div class="sli_w_s">
+                            <div id="slider_n2_0" class="sli"></div>
+                        </div>
+                        <input type="text" id="input_n2_0" size="3" class="ui_txt fl">
+                    </div>
+                    <div>
+                        <div class="fl lbl_left1">Outer: </div>
+                        <div class="sli_w_s">
+                            <div id="slider_n2_1" class="sli"></div>
+                        </div>
+                        <input type="text" id="input_n2_1" size="3" class="ui_txt1 fr">
+                    </div>
+
+
+
+
+                    <div class="section_40 margin_top_20 block_inline">
+                        <label class="lbl_style">Even curves gap</label>
+                        <div class="fl lbl_left">Inner: </div>
+                        <div class="sli_w_s">
+                            <div id="slider_n3_0" class="sli"></div>
+                        </div>
+                        <input type="text" id="input_n3_0" size="3" class="ui_txt fl">
+                    </div>
+                    <div>
+                        <div class="fl lbl_left1">Outer: </div>
+                        <div class="sli_w_s">
+                            <div id="slider_n3_1" class="sli"></div>
+                        </div>
+                        <input type="text" id="input_n3_1" size="3" class="ui_txt1 fr">
+                    </div>
+
+
+
+
+
+              </div>
+            </div>
+          </div>
+        </div>
+
+
+          <div class="block__footer">            
+            <div class="fr">
+              <button id="hires" class="btn btnLoop">Generate Hi-Res pattern</button>
+            </div>
+
+            <div class="fr">
+              <button id="close" class="btn btnClose">Close</button>
+            </div>
+
+            <div class="fl">
+              <button id="reset" class="btn btnClose" style="margin-left:7px;">Reset to defaults</button>
+            </div>
+          </div>
+    </div>
+  </div>
+
+    
+    <script type="text/javascript" src="assets/js/components/table.js"></script>
+    
+    <script type="text/javascript" src="assets/js/common.js"></script>
+    
+    <script type="text/javascript" src="assets/js/components/analytics.js"></script>
+    <script>
+      ga('send', 'pageview', 'table');
+    </script>
+    
+    
+  </body>
+</html>
