@@ -18,5 +18,7 @@ Make sure you have the latest version of Sketch installed. **(Sketch 40+)**
 ## Contact me
 
 Feel free to contact me for any suggestions or critique.
+
 Email: sures.srinivasan@gmail.com
+
 [My portfolio](http://www.sureskumar.com)
