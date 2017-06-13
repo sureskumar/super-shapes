@@ -3,7 +3,7 @@
 	"identifier": "com.sureskumar.superformula",
 	"version": "1.0.0",
   	"compatibleVersion": "40.0",
-  	"appcast": "http://www.sureskumar.com/superformula/superformula.xml",
+  	"appcast": "http://www.sureskumar.com/supershapes/supershapes.xml",
 	"description": "Super shapes is a sketch plugin to generate complex cool shapes using super formula.",
 	"author": "Sures Kumar",
 	"authorEmail": "sures.srinivasan@gmail.com",
