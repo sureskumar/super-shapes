@@ -9,6 +9,10 @@ Make sure you have the latest version of Sketch installed. **(Sketch 40+)**
 2. Double click on `super-shapes.sketchplugin`
 
 ## Examples
+![Super-shapes sample](http://www.sureskumar.com/supershapes/github_imgs/SuperShapes_002_888.gif)
+![Super-shapes sample](http://www.sureskumar.com/supershapes/github_imgs/SuperShapes_004_888.gif)
+![Super-shapes sample](http://www.sureskumar.com/supershapes/github_imgs/SuperShapes_003_888.gif)
+![Super-shapes sample](http://www.sureskumar.com/supershapes/github_imgs/SuperShapes_001_888.gif)
 ![Super-shapes sample](http://www.sureskumar.com/supershapes/github_imgs/supershapes_01.jpg)
 ![Super-shapes sample](http://www.sureskumar.com/supershapes/github_imgs/supershapes_02.jpg)
 ![Super-shapes sample](http://www.sureskumar.com/supershapes/github_imgs/supershapes_03.jpg)
