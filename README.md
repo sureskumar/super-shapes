@@ -1,5 +1,5 @@
 # Super Shapes `⌘ + Y`
-Super shapes is a sketch plugin to generate cool geometric shapes using super formula.
+Super shapes is a sketch plugin to generate complex cool shapes using super formula.
 
 ## Installation
 
