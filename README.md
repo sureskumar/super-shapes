@@ -25,4 +25,4 @@ Feel free to contact me for any suggestions or critique.
 
 Email: sures.srinivasan@gmail.com
 
-[My portfolio](http://www.sureskumar.com)
+[Portfolio](http://www.sureskumar.com)
