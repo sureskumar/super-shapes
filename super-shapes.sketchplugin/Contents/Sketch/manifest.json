@@ -13,10 +13,10 @@
 		"items": [
 			"drawPattern"
 		],
-		"title": "Super Formula"
+		"title": "Super Shapes"
 	},
 	"commands": [{
-		"name": "Super Formula",
+		"name": "Super Shapes",
 		"shortcut": "cmd y",
 		"identifier": "drawPattern",
 		"handler": "drawPattern",

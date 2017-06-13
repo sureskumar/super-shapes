@@ -10,7 +10,7 @@ created_looper_group,
 ori_x, 
 ori_y;
 var opacity_val = 0;
-var debugMode = true;
+var debugMode = false;
 
 var MD = {
   init: function (context, command, args) {

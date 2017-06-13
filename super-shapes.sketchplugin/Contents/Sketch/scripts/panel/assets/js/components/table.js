@@ -223,7 +223,7 @@
      
      $( "#slider_n1_0" ).slider({
       min: 0.0,
-      max: 5.0,
+      max: 2.0,
       step: 0.1,
       value: 0.3,
       stop: function(event, ui){ 
@@ -243,7 +243,7 @@
 
     $( "#slider_n1_1" ).slider({
       min: 0.0,
-      max: 5.0,
+      max: 2.0,
       step: 0.1,
       value: 1.0,
       stop: function(event, ui){ 
