@@ -10,10 +10,10 @@ Make sure you have the latest version of Sketch installed. **(Sketch 40+)**
 
 ## Examples
 ![Super-shapes sample](http://www.sureskumar.com/supershapes/github_imgs/supershapes_01.jpg)
-![Super-shapes sample](http://www.sureskumar.com/supershapes/github_imgs/supershapes_01.jpg)
-![Super-shapes sample](http://www.sureskumar.com/supershapes/github_imgs/supershapes_01.jpg)
-![Super-shapes sample](http://www.sureskumar.com/supershapes/github_imgs/supershapes_01.jpg)
-![Super-shapes sample](http://www.sureskumar.com/supershapes/github_imgs/supershapes_01.jpg)
+![Super-shapes sample](http://www.sureskumar.com/supershapes/github_imgs/supershapes_02.jpg)
+![Super-shapes sample](http://www.sureskumar.com/supershapes/github_imgs/supershapes_03.jpg)
+![Super-shapes sample](http://www.sureskumar.com/supershapes/github_imgs/supershapes_04.jpg)
+![Super-shapes sample](http://www.sureskumar.com/supershapes/github_imgs/supershapes_05.jpg)
 
 ## Contact me
 
