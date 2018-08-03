@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Super Shapes</title>
+    <link>http://www.sureskumar.com/supershapes/supershapes.xml</link>
+    <description>Super shapes is a sketch plugin that generates complex organic super-shapes using super formula.</description>
+    <language>en</language>
+      <item>
+        <title>Version 1.0</title>
+        <description>
+          <![CDATA[
+            <ul>
+            <li>v1.0</li>
+            </ul>
+          ]]>
+        </description>
+        <pubDate>Thu, 15 Jun 2017 11:58:00 +0000</pubDate>
+        <enclosure url="https://github.com/sureskumar/Looper/archive/master.zip" sparkle:version="1.0" length="129688" type="application/octet-stream" />
+      </item>
+  </channel>
+</rss>
