@@ -3,7 +3,7 @@ Super shapes is a sketch plugin to generate complex cool shapes using super form
 
 ## Installation
 
-Make sure you have the latest version of Sketch installed. **(Sketch 40+)**
+Make sure you have the latest version of Sketch installed. **(Sketch 51+)**
 
 1. [Download the ZIP file of this repository](https://github.com/sureskumar/super-shapes/blob/master/Super-Shapes.sketchplugin.zip?raw=true)
 2. Double click on `super-shapes.sketchplugin`
