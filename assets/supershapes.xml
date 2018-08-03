@@ -15,7 +15,19 @@
           ]]>
         </description>
         <pubDate>Thu, 15 Jun 2017 11:58:00 +0000</pubDate>
-        <enclosure url="https://github.com/sureskumar/Looper/archive/master.zip" sparkle:version="1.0" length="129688" type="application/octet-stream" />
+        <enclosure url="https://github.com/sureskumar/super-shapes/archive/a26606b59b542485188e336d5999d651367fd377.zip" sparkle:version="1.0" length="129688" type="application/octet-stream" />
+      </item>
+      <item>
+        <title>Version 2.0</title>
+        <description>
+          <![CDATA[
+            <ul>
+            <li>v2.0</li>
+            </ul>
+          ]]>
+        </description>
+        <pubDate>Thu, 02 Aug 2018 11:58:00 +0000</pubDate>
+        <enclosure url="https://github.com/sureskumar/super-shapes/blob/master/Super-Shapes.sketchplugin.zip" sparkle:version="2.0" length="128853" type="application/octet-stream" />
       </item>
   </channel>
 </rss>
