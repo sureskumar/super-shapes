@@ -1,14 +1,13 @@
 {
 	"name": "SuperShapes",
 	"identifier": "com.sureskumar.supershapes",
-	"version": "1.0.0",
-  	"compatibleVersion": "40.0",
-  	"appcast": "http://www.sureskumar.com/supershapes/supershapes.xml",
+	"version": "2.0.0",
+  	"compatibleVersion": "51.0",
+  	"appcast": "https://github.com/sureskumar/super-shapes/raw/master/assets/supershapes.xml",
 	"description": "Super shapes is a sketch plugin that generates complex organic super-shapes using super formula.",
-	"icon" : "http://www.sureskumar.com/supershapes/github_imgs/logo.png",
+	"icon" : "https://github.com/sureskumar/super-shapes/raw/master/assets/logo.png",
 	"author": "Sures Kumar",
 	"authorEmail": "sures.srinivasan@gmail.com",
-	"homepage": "http://www.sureskumar.com",
 	"menu": {
 		"isRoot": true,
 		"items": [
