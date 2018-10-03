@@ -29,5 +29,17 @@
         <pubDate>Thu, 02 Aug 2018 11:58:00 +0000</pubDate>
         <enclosure url="https://github.com/sureskumar/super-shapes/releases/download/v2.0/Super-Shapes.sketchplugin.zip" sparkle:version="2.0" length="128853" type="application/octet-stream" />
       </item>
+      <item>
+        <title>Version 2.1</title>
+        <description>
+          <![CDATA[
+            <ul>
+            <li>v2.1</li>
+            </ul>
+          ]]>
+        </description>
+        <pubDate>Wed, 03 Oct 2018 10:00:00 +0000</pubDate>
+        <enclosure url="https://github.com/sureskumar/super-shapes/releases/download/v2.1/super-shapes.sketchplugin.zip" sparkle:version="2.1" length="141501" type="application/octet-stream" />
+      </item>
   </channel>
 </rss>
