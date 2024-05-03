@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle"  xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>Super Shapes</title>
-    <link>http://www.sureskumar.com/supershapes/supershapes.xml</link>
+    <link>https://github.com/sureskumar/super-shapes/raw/master/assets/supershapes.xml</link>
     <description>Super shapes is a sketch plugin that generates complex organic super-shapes using super formula.</description>
     <language>en</language>
       <item>
